@@ -1,0 +1,38 @@
+# Robots.txt for QuetaX
+# Optimized for Web Search Engines, AIO (AI Crawlers), and GEO Indexing
+
+User-agent: *
+Allow: /
+Disallow: /api/private/
+
+# AI Crawlers & LLM Indexers (AIO Engine Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Sitemap & LLM Directives
+Sitemap: https://quetax.com/sitemap.xml
+LLM-Data: https://quetax.com/llms.txt

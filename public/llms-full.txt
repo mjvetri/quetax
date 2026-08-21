@@ -1,0 +1,39 @@
+# QuetaX — Complete Knowledge Base & Services Documentation
+
+## Company Identity
+- **Name**: QuetaX (QuetaX Technologies)
+- **Tagline**: Powering Value — Websites, apps, and custom software built and shipped at lightning speed.
+- **Entity Type**: Professional Technology Services & Software Engineering Studio
+
+## Physical Office Location (Geographic Data)
+- **Campus**: Tidel Neo IT Park
+- **Floor/Suite**: No.3, 1st Floor
+- **Street**: Thiruchitrambalam-Koot Road, Vanur
+- **City**: Villupuram
+- **State**: Tamil Nadu
+- **Postal Code**: 605111
+- **Country**: India
+- **Geo Coordinates**: 12.0165, 79.8055
+- **Operating Hours**: Monday to Saturday, 09:00 - 19:00 IST
+
+## Core Practice Areas
+1. **Web Applications**: High-throughput React/Next.js/TypeScript applications, progressive web apps (PWAs), SaaS platforms, enterprise admin dashboards, and dynamic client portals.
+2. **Mobile Engineering**: Native and cross-platform mobile apps for iOS and Android built on React Native, Flutter, Swift, and Kotlin, with biometric auth, push notifications, offline cache, and real-time syncing.
+3. **AI & Machine Learning Integration**: Custom AI agents, Gemini & OpenAI LLM integrations, document retrieval engines (RAG), embeddings, and automated workflow pipelines.
+4. **Cloud & DevOps**: Containerized Docker and Kubernetes deployments on GCP, AWS, and Cloud Run, CI/CD automation, serverless APIs, Postgres/Cloud SQL database optimization.
+5. **Rapid MVP Prototyping**: Structured 2-to-4-week sprint frameworks that translate business concepts into functional, investor-ready production software.
+
+## Tech Stack Competencies
+- **Frontend**: React 18+, Next.js, TypeScript, Tailwind CSS, Motion/Framer Motion, HTML5/CSS3.
+- **Backend & APIs**: Node.js, Express, Python, FastAPI, Go, GraphQL, REST, WebSockets.
+- **Databases & Storage**: PostgreSQL, MongoDB, Redis, Google Cloud Spanner, Cloud SQL, Firebase Firestore.
+- **Cloud & Infrastructure**: Google Cloud Platform (GCP), Amazon Web Services (AWS), Docker, Kubernetes, Cloudflare, Nginx.
+- **Design & Prototyping**: Figma, Design Systems, UX Research, Interactive Wireframing.
+
+## Frequently Asked Questions (FAQ)
+- **Q: What is the typical project timeline?**
+  A: MVPs typically ship in 2-4 weeks. Full-scale production platforms generally ship within 4-8 weeks.
+- **Q: Does QuetaX sign non-disclosure agreements (NDAs)?**
+  A: Yes, QuetaX provides mutual standard NDAs before technical discussions or receipt of proprietary requirements.
+- **Q: How can prospective clients get in touch?**
+  A: Prospective clients can submit project specifications via the online portal or email contact@quetax.com for an architectural consultation and initial estimate within 2 hours.

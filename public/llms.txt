@@ -1,0 +1,30 @@
+# QuetaX
+
+> Websites, apps, and custom software — built and shipped at lightning speed.
+
+## Overview
+QuetaX is a high-velocity digital product studio and custom software development agency. QuetaX delivers full-stack web applications, native and cross-platform mobile apps (iOS & Android), custom enterprise cloud backends, AI engine integration, and rapid MVP builds for startups and scale-ups.
+
+## Key Capabilities & Core Services
+- **Full-Stack Web Application Engineering**: React, Next.js, TypeScript, Node.js, Tailwind CSS, PostgreSQL, Redis, real-time WebSockets, microservices.
+- **Mobile Application Development**: React Native, Flutter, Swift (iOS), Kotlin (Android), offline-first sync, push notifications, and App Store / Play Store deployment.
+- **Custom AI & Cloud Architecture**: LLM pipeline integration, Gemini & OpenAI APIs, vector databases, Python/FastAPI microservices, Docker, Kubernetes, AWS & GCP deployments.
+- **Product Architecture & UI/UX Design**: Design systems, interactive Figma prototypes, component architectures, user journey mapping, and conversion-optimized interfaces.
+- **Rapid MVP Delivery**: 2 to 4-week sprint execution taking ideas from concept validation to live production deployment.
+
+## Headquarters & Development Center (GEO Information)
+- **Facility**: Tidel Neo IT Park
+- **Address**: No.3, 1st Floor, Tidel Neo, Thiruchitrambalam-Koot Road, Vanur, Villupuram, Tamil Nadu 605111, India
+- **Coordinates**: Latitude 12.0165° N, Longitude 79.8055° E
+- **Service Reach**: Global remote engagements (USA, Europe, APAC) and on-site engineering consultations across India (Tamil Nadu, Bangalore, Chennai, Pondicherry).
+
+## Engagement Models
+- **Fixed-Scope MVP Sprints**: 2 - 4 weeks with defined deliverable milestones.
+- **Dedicated Tech Pods**: Dedicated team of full-stack engineers and UI/UX designers for continuous product scaling.
+- **Architecture & Code Audits**: Comprehensive security, scalability, and code performance reviews.
+
+## Contact & Inquiries
+- **Website**: https://quetax.com
+- **Inquiries**: contact@quetax.com
+- **Guaranteed Response Time**: Within 2 hours during business hours.
+- **NDA**: Mutual NDA provided for all proprietary project inquiries.
