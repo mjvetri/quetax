@@ -427,6 +427,7 @@ export function ContactPage({ onNavigate }: ContactPageProps) {
   ];
 
   const socialLinks = [
+    { label: 'WhatsApp', href: 'https://wa.me/916369078235', icon: MessageSquare, color: 'text-green-600' },
     { label: 'Instagram', href: 'https://www.instagram.com/_queta.x/', icon: Instagram, color: 'text-pink-600' },
     { label: 'Facebook', href: 'https://www.facebook.com/profile.php?id=61593432374022', icon: Facebook, color: 'text-blue-600' },
     { label: 'X (Twitter)', href: 'https://x.com/queta_x', icon: Twitter, color: 'text-neutral-900' },
