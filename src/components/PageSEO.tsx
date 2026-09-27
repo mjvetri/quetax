@@ -40,6 +40,11 @@ export const PAGE_META: Record<NavPage, PageMeta> = {
       'Browse case studies and projects delivered by QuetaX across web, mobile, custom software, and AI & cloud engagements.',
     path: '/work',
   },
+  projects: {
+    title: 'Upcoming and Future Projects | QuetaX',
+    description: 'Explore QuetaX concepts in responsible AI, regulated workflow automation, digital wellness, immersive design, energy management and trusted records.',
+    path: '/projects',
+  },
   innovation: {
     title: 'Innovation & R&D | QuetaX',
     description:

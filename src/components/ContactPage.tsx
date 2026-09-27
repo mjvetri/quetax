@@ -2206,6 +2206,22 @@ export function ContactPage({ onNavigate }: ContactPageProps) {
     details: '',
   });
 
+  useEffect(() => {
+    try {
+      const interest = sessionStorage.getItem('quetax_project_interest');
+      if (interest) {
+        setFormData((prev) => ({
+          ...prev,
+          projectType: 'AI & Agentic Workflow',
+          details: `Interested in: ${interest}\n\n`,
+        }));
+        sessionStorage.removeItem('quetax_project_interest');
+      }
+    } catch {
+      // sessionStorage unavailable, skip prefill
+    }
+  }, []);
+
   const [isSubmitted, setIsSubmitted] = useState(false);
 
   const projectTypes = [

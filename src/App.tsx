@@ -413,6 +413,7 @@ import { NavPage } from './types';
 import { AboutPage } from './components/AboutPage';
 import { ServicesPage } from './components/ServicesPage';
 import { WorkPage } from './components/WorkPage';
+import { ProjectsPage } from './components/ProjectsPage';
 import { InnovationPage } from './components/InnovationPage';
 import { ProcessPage } from './components/ProcessPage';
 import { ContactPage } from './components/ContactPage';
@@ -420,9 +421,9 @@ import { QuetaxEmblem } from './components/Logo';
 import { ScrollProgressBar } from './components/ScrollProgressBar';
 import { ScrollToTopButton } from './components/ScrollToTopButton';
 import { usePageSEO } from './components/PageSEO';
-import { ArrowLeft, Menu, X, ChevronRight, Home, Info, Terminal, Layers, Sparkles, Clock, Send } from 'lucide-react';
+import { ArrowLeft, Menu, X, ChevronRight, Home, Info, Terminal, Layers, Rocket, Sparkles, Clock, Send } from 'lucide-react';
 
-const VALID_PAGES: NavPage[] = ['home', 'about', 'services', 'work', 'innovation', 'process', 'contact'];
+const VALID_PAGES: NavPage[] = ['home', 'about', 'services', 'work', 'projects', 'innovation', 'process', 'contact'];
 
 function pageFromPathname(pathname: string): NavPage | null {
   const slug = pathname.replace(/^\/+|\/+$/g, '');
@@ -484,6 +485,7 @@ export default function App() {
     { label: 'About', id: 'about', icon: Info },
     { label: 'Services', id: 'services', icon: Terminal },
     { label: 'Work', id: 'work', icon: Layers },
+    { label: 'Projects', id: 'projects', icon: Rocket },
     { label: 'Innovation', id: 'innovation', icon: Sparkles },
     { label: 'Process', id: 'process', icon: Clock },
     { label: 'Contact', id: 'contact', icon: Send },
@@ -796,6 +798,13 @@ export default function App() {
             {currentPage === 'work' && (
               <div id="page-work-view" className="flex-1">
                 <WorkPage onNavigate={(p) => navigateTo(p as NavPage)} />
+              </div>
+            )}
+
+            {/* Projects Page */}
+            {currentPage === 'projects' && (
+              <div id="page-projects-view" className="flex-1">
+                <ProjectsPage onNavigate={(p) => navigateTo(p as NavPage)} />
               </div>
             )}
 
